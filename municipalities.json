@@ -1,0 +1,47 @@
+{
+  "chofu": {
+    "name": "調布市",
+    "ja": "ちょうふし",
+    "lat": 35.652,
+    "lng": 139.542,
+    "official_hazard_map": "https://www.city.chofu.lg.jp/020090/p013021.html",
+    "contact": "総務部 総合防災安全課",
+    "phone": "042-481-7846"
+  },
+  "fuchu": {
+    "name": "府中市",
+    "ja": "ふちゅうし",
+    "lat": 35.672,
+    "lng": 139.478,
+    "official_hazard_map": "https://www.city.fuchu.tokyo.jp/bosaibohan/saigai/fuusuigai/2017suigaimappu.html",
+    "contact": "防災危機管理本部",
+    "phone": "042-335-4357"
+  },
+  "mitaka": {
+    "name": "三鷹市",
+    "ja": "みたかし",
+    "lat": 35.684,
+    "lng": 139.560,
+    "official_hazard_map": "https://www.city.mitaka.lg.jp/c_service/034/034182.html",
+    "contact": "総務部 防災課",
+    "phone": "0422-45-1151"
+  },
+  "setagaya": {
+    "name": "世田谷区",
+    "ja": "せたがやく",
+    "lat": 35.646,
+    "lng": 139.653,
+    "official_hazard_map": "https://www.city.setagaya.lg.jp/02049/606.html",
+    "contact": "危機管理部 災害対策課",
+    "phone": "03-5432-2111"
+  },
+  "suginami": {
+    "name": "杉並区",
+    "ja": "すぎなみく",
+    "lat": 35.700,
+    "lng": 139.636,
+    "official_hazard_map": "https://www.city.suginami.tokyo.jp/s098/462.html",
+    "contact": "都市整備部 土木計画課",
+    "phone": "03-3312-2111"
+  }
+}
